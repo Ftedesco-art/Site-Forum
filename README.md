@@ -1,6 +1,6 @@
 # Site-Forum
 
-Projeto Inacabado, site com HTML, PHP e mySQL.
+Projeto Inacabado, site com HTML, PHP, CSS e mySQL.
 Hosteado pelo servidor Apache do XAAMP
 
 
